@@ -1,6 +1,6 @@
 //Authors: Laurent Zogaj & Medlem 3
 
-package com.example;
+package veikryss;
 
 import javafx.application.Platform;
 import javafx.scene.control.TextArea;

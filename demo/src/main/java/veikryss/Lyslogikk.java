@@ -1,6 +1,6 @@
 //Author: Medlem 2, Laurent Zogaj
 
-package com.example;
+package veikryss;
 
 /* Dette er en klasse som inneholder logikk for lysene i veikrysset.
  * 
@@ -8,10 +8,10 @@ package com.example;
  */
 
 // Importerer retningene for å plassere bilene i veikrysset
-import static com.example.App.RETNING_HØYRE; 
-import static com.example.App.RETNING_NED;
-import static com.example.App.RETNING_OPP;
-import static com.example.App.RETNING_VENSTRE;
+import static veikryss.App.RETNING_HØYRE; 
+import static veikryss.App.RETNING_NED;
+import static veikryss.App.RETNING_OPP;
+import static veikryss.App.RETNING_VENSTRE;
 
 public class Lyslogikk {
    

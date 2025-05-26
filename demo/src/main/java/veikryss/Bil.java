@@ -1,8 +1,6 @@
 //Authors: Medlem 1, Medlem 2, Laurent Zogaj, Medlem 3 
 
-package com.example;
-
-import static com.example.App.VEI_BREDDE;
+package veikryss;
 
 import javafx.animation.KeyFrame;
 import javafx.animation.KeyValue;
@@ -11,6 +9,7 @@ import javafx.scene.Group;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.util.Duration;
+import static veikryss.App.VEI_BREDDE;
 
 public class Bil extends Figur {
     //finner bredde og lengde på bil

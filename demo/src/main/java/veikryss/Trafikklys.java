@@ -1,14 +1,13 @@
 //Authors: Medlem 1, Medlem 2, Laurent Zogaj
 
 
-package com.example;
-
-import static com.example.App.VEI_BREDDE; 
+package veikryss;
 
 import javafx.scene.Group;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Rectangle;
+import static veikryss.App.VEI_BREDDE;
 
 public class Trafikklys extends Figur{
     private Group gruppe = new Group(); //Gruppe som inneholder alle elementene i trafikklyset

@@ -1,6 +1,6 @@
 //Author: Medlem 1
 
-package com.example;
+package veikryss;
 /*
 * Denne klassen er laget for å lagre ulike startposisjoner til biler,
 * samt retning i form av grader. Det er opprettet fire forskjellige

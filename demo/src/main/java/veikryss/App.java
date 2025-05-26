@@ -1,6 +1,6 @@
 //Authors: Medlem 1, Medlem 2, Laurent Zogaj & Medlem 3
 
-package com.example;
+package veikryss;
 
 import java.io.IOException;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 //Author: Medlem 1
 
-package com.example;
+package veikryss;
 
 import javafx.scene.Group;
 import javafx.scene.shape.Shape;

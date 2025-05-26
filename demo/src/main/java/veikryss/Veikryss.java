@@ -1,19 +1,18 @@
 //Author: Medlem 1
 
-package com.example;
+package veikryss;
 
 import java.util.ArrayList;
 
-import static com.example.App.RETNING_HØYRE;
-import static com.example.App.RETNING_NED; 
-import static com.example.App.RETNING_OPP;
-import static com.example.App.RETNING_VENSTRE;
-import static com.example.App.VINDU_HØYDE; //import av VINDU_HØYDE. Brukes for å tegne veikrysset
-
-import javafx.scene.layout.Pane; //import av VEI_BREDDE. Brukes for å tegne veikrysset
+import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Line;
 import javafx.scene.shape.Rectangle;
+import static veikryss.App.RETNING_HØYRE; //import av VINDU_HØYDE. Brukes for å tegne veikrysset
+import static veikryss.App.RETNING_NED; //import av VEI_BREDDE. Brukes for å tegne veikrysset
+import static veikryss.App.RETNING_OPP;
+import static veikryss.App.RETNING_VENSTRE;
+import static veikryss.App.VINDU_HØYDE;
 
 public class Veikryss {
 
